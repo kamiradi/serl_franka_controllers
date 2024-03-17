@@ -2,6 +2,11 @@
 Changelog for package serl_franka_controllers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2024-03-17)
+-----------
+* ignore realtime kernel constraint
+* Contributors: Zheyuan Hu
+
 0.1.1 (2024-02-06)
 ------------------
 * add installation instruction
